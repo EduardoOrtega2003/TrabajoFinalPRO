@@ -90,6 +90,28 @@ application/json"
 }
 ```
 
+## 💭 Ejemplos de prueba
+
+### Creación de Usuario V1
+
+![image](https://github.com/user-attachments/assets/215a719f-fcda-4005-a8c6-2ac41043c3d7)
+
+### Creación de Nota
+
+![image](https://github.com/user-attachments/assets/297816fc-dcfb-4cc4-9997-39e18b085310)
+
+### Mostramos el resultado
+
+![image](https://github.com/user-attachments/assets/f89f5e2e-2e82-4fa7-86a8-8360ec300be7)
+
+### Edición de Usuario y Nota
+
+
+
+### Creación de Usuario V2
+
+![image](https://github.com/user-attachments/assets/2cfde4b1-998b-48a3-8f86-10618e56b7d7)
+
 ## ✅ Validaciones
 
 - Nombre: No puede estar vacío, entre 2 y 100 caracteres
