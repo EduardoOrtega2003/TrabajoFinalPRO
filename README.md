@@ -106,7 +106,13 @@ application/json"
 
 ### Edición de Usuario y Nota
 
+![image](https://github.com/user-attachments/assets/7fd59b2d-f897-40a0-900b-194065d78b18)
 
+### Eliminación de Nota y Usuario
+
+![image](https://github.com/user-attachments/assets/2002f5fa-0942-4bed-b593-195ed2b98e95)
+
+![image](https://github.com/user-attachments/assets/49dfa889-4cf0-4f92-98a7-d9627f26f6de)
 
 ### Creación de Usuario V2
 
